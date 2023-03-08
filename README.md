@@ -1,2 +1,2 @@
 # Majd-Recipes
-A recipes applicatin using ReactJS and tailwindcss
+A recipes application using ReactJS and tailwindcss
